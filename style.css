@@ -23,6 +23,7 @@ body{
 .all{
     display: flex;
     padding-left: 30px;
+    text-align: center;
 }
 .foot{
     text-align: center;
