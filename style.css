@@ -107,6 +107,7 @@ body{
 .game{
     text-align: center;
     align-content: center;
+    padding-left:20px;
 }
 .cat:hover{
     transform: scale(1.03);
