@@ -107,6 +107,9 @@ body{
 .game{
     text-align: center;
     align-content: center;
+    
+}
+.cat{
     padding-left:20px;
 }
 .cat:hover{
