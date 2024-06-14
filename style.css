@@ -66,6 +66,10 @@ body{
 .snake:hover{
     transform:scale(1.03);
 }
+.website{
+    padding-right:20px;
+}
+
 .website:hover{
     transform:scale(1.03);
 }
@@ -109,9 +113,7 @@ body{
     align-content: center;
     
 }
-.cat{
-    padding-left:20px;
-}
+
 .cat:hover{
     transform: scale(1.03);
     border-style: solid;
